@@ -1,0 +1,7 @@
+[0m[0KREPOSITORY              TAG           IMAGE ID       CREATED          SIZE[0K
+carlosumc/lab6-docker   v1            42a6c70540ca   43 seconds ago   748MB[0K
+python                  3.11-slim     9ab864898180   3 weeks ago      129MB[0K
+ubuntu                  latest        b1d9df8ab815   5 weeks ago      78.1MB[0K
+hello-world             latest        d2c94e258dcb   20 months ago    13.3kB[0K
+biocontainers/blast     v2.2.31_cv2   5b25e08b9871   6 years ago      2.03GB[0K
+[0K
